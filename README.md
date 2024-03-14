@@ -14,7 +14,8 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4: 
 end the program
 ## Program:
-```
+```DEVELOPED BY: JANARTHANAN B
+   REF NO : 212223100014
 A = np.array([[1,2,3],[3,6,9]])
 B = np.linalg.matrix_rank(A)
 print(B)
