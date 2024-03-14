@@ -16,10 +16,10 @@ end the program
 ## Program:
     DEVELOPED BY: JANARTHANAN B
     REF NO : 212223100014
-
+    import numpy as np
     A = np.array([[1,2,3],[3,6,9]])
-    B = np.linalg.matrix_rank(A)
-    print(B)
+    rank = np.linalg.matrix_rank(A)
+    print(rank)
 ## Output:
 ![image](https://github.com/jokerjana/RANK-OF-A-MATRIX/assets/147173630/5fddec1e-3df0-4cdd-b751-16088d48851c)
 
